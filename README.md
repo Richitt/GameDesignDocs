@@ -1,10 +1,15 @@
 # GameDesignDocs
 
-  Collection of game ideas I've worked on and planned to work on.
+Collection of game analysis/design stuff by Richard Wang.
 
-  Drifter Fight Night is the fighting game my friends and I have been chipping at for the past year or so - in the folder are general character designs I've created,
-  as well as thoughts we've had on game mechanics such as blocking.
 
-  Gladiator is a work in progress that I'm currently starting on - the document is a general overview of what I plan to focus on.
+# Drifter Fight Night
+  The character designs I've worked on for our platform fighter, as well as the blocking discussion we had on innovating Smash's base shielding mechanic.
 
-  For analysis stuff I've done, I've also put in the Inferno Class guide I wrote for the DFOGlobal Inferno discord, which aims to give a good overview and ideas to focus on for newer players to the class.
+# Gladiator
+  Upcoming RPG I've also started working on the side, with an emphasis on creating a
+  gameplay experience to focus on tension.
+
+
+# Misc. Guides
+  Currently DFO guides I've written for various class discords to help teach newer players as well as provide an analysis for optimization of playstyles for the MMO Dungeon Fighter Online, an 2d action RPG.
